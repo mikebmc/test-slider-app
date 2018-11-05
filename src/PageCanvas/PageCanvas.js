@@ -1,6 +1,7 @@
 import React, { Component } from 'react';
 import { Group, Text, Arrow, Line, Rect, Layer, Stage } from 'react-konva';
 import Portal from '../Portal/Portal';
+import 'whatwg-fetch'
 
 class PageCanvas extends Component {
 	segmentLabels = [
@@ -89,11 +90,21 @@ class PageCanvas extends Component {
 	}
 
 	answerHandlerYes = (event) => {
-		console.log(this.state)
+		let post = JSON.stringify({
+			firstFraction: this.state.numberlines[0].numberOfSegmentsLabel,
+			secondFraction: this.state.numberlines[1].numberOfSegmentsLabel,
+			answer: 'yes',
+		})
+		console.log(post)
 	}
 
 	answerHandlerNo = (event) => {
-		console.log("No")
+		let post = JSON.stringify({
+			firstFraction: this.state.numberlines[0].numberOfSegmentsLabel,
+			secondFraction: this.state.numberlines[1].numberOfSegmentsLabel,
+			answer: 'no',
+		})
+		console.log(post)
 	}
 
 	render() {
