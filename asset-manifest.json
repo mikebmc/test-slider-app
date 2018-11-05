@@ -1,13 +1,13 @@
 {
   "main.css": "/test-slider-app/static/css/main.ce365c43.chunk.css",
-  "main.js": "/test-slider-app/static/js/main.ce9864f4.chunk.js",
-  "main.js.map": "/test-slider-app/static/js/main.ce9864f4.chunk.js.map",
-  "static/js/1.169a7c49.chunk.js": "/test-slider-app/static/js/1.169a7c49.chunk.js",
-  "static/js/1.169a7c49.chunk.js.map": "/test-slider-app/static/js/1.169a7c49.chunk.js.map",
+  "main.js": "/test-slider-app/static/js/main.bbb6ed91.chunk.js",
+  "main.js.map": "/test-slider-app/static/js/main.bbb6ed91.chunk.js.map",
+  "static/js/1.b8c58336.chunk.js": "/test-slider-app/static/js/1.b8c58336.chunk.js",
+  "static/js/1.b8c58336.chunk.js.map": "/test-slider-app/static/js/1.b8c58336.chunk.js.map",
   "runtime~main.js": "/test-slider-app/static/js/runtime~main.c9e1d857.js",
   "runtime~main.js.map": "/test-slider-app/static/js/runtime~main.c9e1d857.js.map",
   "static/css/main.ce365c43.chunk.css.map": "/test-slider-app/static/css/main.ce365c43.chunk.css.map",
   "index.html": "/test-slider-app/index.html",
-  "precache-manifest.6ea2a51d9c173d7629cf06326c449177.js": "/test-slider-app/precache-manifest.6ea2a51d9c173d7629cf06326c449177.js",
+  "precache-manifest.c5989052f66ec3eb73cb3ce75a56d0cd.js": "/test-slider-app/precache-manifest.c5989052f66ec3eb73cb3ce75a56d0cd.js",
   "service-worker.js": "/test-slider-app/service-worker.js"
 }
